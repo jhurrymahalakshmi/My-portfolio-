@@ -1,8 +1,7 @@
 # ------------------------------ IMPORT LIBRARIES-----------------------------------
 
 # First of all, we have to import the libraries.
-# Honestly I watch a video on how does streamlit function, and I understand that we need to
-# re-do the same things like we do in the previous part. So import and reorganise the data
+# I import and reorganise the data
 # as a firsts steps.
 
 import streamlit as st
